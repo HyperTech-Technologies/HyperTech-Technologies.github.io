@@ -59,12 +59,9 @@ nav a:hover {
   color: #ccc;
 }
 
-.hero img {
-  margin-top: 2rem;
-  max-width: 100%;
-  height: auto;
-  border-radius: 20px;
-  box-shadow: 0 0 20px rgba(0, 255, 225, 0.2);
+.home {
+  height: 60px;
+  margin-right: 1rem;
 }
 
 footer {
